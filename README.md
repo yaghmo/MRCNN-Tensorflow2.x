@@ -1,1 +1,1 @@
-## MRCNN compatile with Tensorflow2.x
+## MRCNN compatible with Tensorflow2.x
